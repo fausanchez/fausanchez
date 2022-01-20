@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @fausanchez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fausanchez/fausanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Web3, DeFi, Space Exploration and Learning
+- 🌱 I’m currently learning Web3
+- 💞️ I’m looking to collaborate on Whatever, just reach me
+- 📫 How to reach me fausto1124@gmail.com
