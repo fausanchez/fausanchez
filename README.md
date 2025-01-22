@@ -6,5 +6,5 @@
 
 ![fausanchez's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user=fausanchez&theme=dark)
 
-[![committers.top badge](https://user-badge.committers.top/uruguay_private/USERNAME.svg)](https://user-badge.committers.top/uruguay_private/fausanchez)
+[![committers.top badge](https://user-badge.committers.top/uruguay_private/fausanchez.svg)](https://user-badge.committers.top/uruguay_private/fausanchez)
 
